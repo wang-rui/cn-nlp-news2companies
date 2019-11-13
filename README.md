@@ -1,8 +1,5 @@
-# Miotech-CN-NLP
 
-Init
-
-## News2Company
+## News2Companies
 
 Map news within a certain period to relevant companies.
 
